@@ -17,6 +17,7 @@ int main() {
 	slm_a::CTestA ca ;
 	ca.run1();
 	ca.run3();
+	ca.run3();
 	slm_b::CTestB cb ;
 	cb.run2();
 	return 0;
